@@ -1,0 +1,60 @@
+{
+  "headers_for_auth" : {
+            "Authorization": "Bearer",
+            "User-Agent": "Mozilla/5.0",
+            "Accept": "text",
+            "Accept-Language": "",
+            "Accept-Encoding": "",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "none",
+            "Pragma": "no-cache",
+            "Cache-Control": "no-cache",
+            "Cookie": ""
+        },
+
+  "filter_book": {
+    "forceFilters[categories]": 18030
+},
+
+  "author":
+  {
+    "suggest[query]": "Достоевский",
+    "suggest[entity]": "authors"
+  },
+  "url": "https://www.chitai-gorod.ru/",
+  "api1_url": "https://web-agr.chitai-gorod.ru/web/api/v1/",
+  "api2_url": "https://web-gate.chitai-gorod.ru/api/v2/",
+
+  "id": "2891539",
+
+  "id_product": 217176058,
+
+  "productId": {
+    "productId": 217176058
+  },
+
+  "title": "Идиот",
+
+  "json_id": {
+    "id": 2891539
+  },
+
+  "timeout": 0,
+  "browser_name": "chrome",
+
+  "genre": "Фэнтези",
+  "category": "Художественная литература",
+  "popular": 1,
+  "newbie": 2,
+  "asc": 3,
+  "desc": 4,
+  "rating": 5,
+  "subscribes": 6,
+  "cookies_path": "C:/Users/qoxxa/PycharmProjects/Chitai-gorod/cookies.json"
+}
+
+
+

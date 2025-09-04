@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b34ba3c7-07a4-4984-9e10-f3612e8e1ef3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Chitai-gorod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataProvider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/save_cookie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_api/BoardApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_api/test_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_ui/MainPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_ui/tests_ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_ui/ui_scenarios.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="31BsgVaP5WkqWXYZuSclwHUCQT4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_api.test_add_to_cart.executor": "Run",
+    "Python tests.Python tests for test_api.test_clearing_cart.executor": "Run",
+    "Python tests.Python tests for test_api.test_delete_to_cart.executor": "Run",
+    "Python tests.Python tests for test_api.test_find_author.executor": "Run",
+    "Python tests.Python tests for test_api.test_find_by_id.executor": "Run",
+    "Python tests.Python tests for test_api.test_find_by_title.executor": "Run",
+    "Python tests.Python tests for test_api.test_find_len_popular_books.executor": "Debug",
+    "Python tests.Python tests for test_api.test_find_popular_books.executor": "Run",
+    "Python tests.Python tests for test_api.test_restore_product.executor": "Run",
+    "Python tests.Python tests for test_api.test_viewing_cart.executor": "Run",
+    "Python tests.Python tests for test_scenarios.test_full_purchase_flow.executor": "Run",
+    "Python tests.Python tests for test_scenarios.test_navigation_and_sort.executor": "Run",
+    "Python tests.Python tests for test_ui.test_404_page.executor": "Run",
+    "Python tests.Python tests for test_ui.test_add_for_favorites.executor": "Run",
+    "Python tests.Python tests for test_ui.test_add_to_cart.executor": "Run",
+    "Python tests.Python tests for test_ui.test_authorization_for_cookie.executor": "Run",
+    "Python tests.Python tests for test_ui.test_book_reviews.executor": "Run",
+    "Python tests.Python tests for test_ui.test_find_by_title.executor": "Run",
+    "Python tests.Python tests for test_ui.test_full_purchase_flow.executor": "Run",
+    "Python tests.Python tests for test_ui.test_navigation.executor": "Run",
+    "Python tests.Python tests for test_ui.test_sort.executor": "Run",
+    "Python tests.Python tests for test_ui_scenarios.test_full_purchase_flow.executor": "Run",
+    "Python tests.Python tests for tests_ui.test_add_for_favorites.executor": "Run",
+    "Python tests.Python tests for tests_ui.test_add_to_cart.executor": "Run",
+    "Python tests.Python tests for tests_ui.test_authorization_for_cookie.executor": "Run",
+    "Python tests.Python tests for tests_ui.test_book_reviews.executor": "Run",
+    "Python tests.Python tests for tests_ui.test_clear_card.executor": "Run",
+    "Python tests.Python tests for tests_ui.test_clear_favorites.executor": "Run",
+    "Python tests.Python tests for tests_ui.test_filter_by_genre.executor": "Run",
+    "Python tests.Python tests for tests_ui.test_find_by_title.executor": "Run",
+    "Python tests.Python tests for tests_ui.test_navigation.executor": "Run",
+    "Python tests.Python tests for tests_ui.test_open_product_card.executor": "Run",
+    "Python tests.Python tests for tests_ui.test_search_by_title.executor": "Run",
+    "Python tests.Python tests for tests_ui.test_sort.executor": "Run",
+    "Python tests.Python tests in test_api.py.executor": "Run",
+    "Python.BoardApi.executor": "Run",
+    "Python.DataProvider.executor": "Run",
+    "Python.curl.executor": "Run",
+    "Python.find_popular.executor": "Run",
+    "Python.http.client.executor": "Run",
+    "Python.save_cookie.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/qoxxa/PycharmProjects/Chitai-good/test_ui",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\qoxxa\PycharmProjects\Chitai-good\test_ui" />
+      <recent name="C:\Users\qoxxa\PycharmProjects\Chitai-good" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\qoxxa\PycharmProjects\Chitai-good" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for tests_ui.test_authorization_for_cookie">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Chitai-gorod" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Chitai-gorod" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="Chitai-gorod" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="Chitai-gorod" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests_ui.test_add_to_cart" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Chitai-gorod" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_ui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests_ui.test_add_to_cart&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests_ui.test_authorization_for_cookie" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Chitai-gorod" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_ui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests_ui.test_authorization_for_cookie&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests_ui.test_filter_by_genre" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Chitai-gorod" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_ui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests_ui.test_filter_by_genre&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests_ui.test_search_by_title" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Chitai-gorod" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_ui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests_ui.test_search_by_title&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests_ui.test_sort" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Chitai-gorod" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_ui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests_ui.test_sort&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Chitai-gorod" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Chitai-gorod" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for tests_ui.test_authorization_for_cookie" />
+        <item itemvalue="Python tests.Python tests for tests_ui.test_add_to_cart" />
+        <item itemvalue="Python tests.Python tests for tests_ui.test_search_by_title" />
+        <item itemvalue="Python tests.Python tests for tests_ui.test_sort" />
+        <item itemvalue="Python tests.Python tests for tests_ui.test_filter_by_genre" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b34ba3c7-07a4-4984-9e10-f3612e8e1ef3" name="Changes" comment="" />
+      <created>1755008911766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755008911766</updated>
+    </task>
+    <servers />
+  </component>
+</project>
