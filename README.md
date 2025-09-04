@@ -62,3 +62,25 @@
 - **test_data.json**: База с тестовыми данными.
 - **save_bearer_token.py**: Заходит на сайт, авторизуется по cookie и возвращает bearer token в файл bearer_token.json
 - **save_cookie.py**: Заходит на сайт, даёт время на ручную авторизацию, возвращает cookie авторизации в файл cookie.json
+
+Chitai-gorod/
+│
+├── 📄 requirements.txt # Зависимости Python
+├── 📄 pytest.ini # Конфигурация pytest
+├── 📄 run.sh # Скрипт запуска тестов и генерации отчета
+├── 📄 test_data.json # Файл с тестовыми данными
+├── 📄 save_bearer_token.py # Скрипт для получения и сохранения Bearer токена
+├── 📄 save_cookie.py # Скрипт для сохранения cookie после ручной авторизации
+├── 📄 .gitignore # Список файлов, исключённых из Git
+│
+├── 📄 DataProvider.py # Утилита для получения данных из test_data.json
+├── 📄 conftest.py # Глобальные фикстуры и настройки Pytest
+│
+├── 📂 test_api/ # API-тесты
+│ ├── 📄 BoardApi.py # Методы для работы с API
+│ └── 📄 tests_api.py # Тестовые сценарии API
+│
+└── 📂 test_ui/ # UI-тесты
+├── 📄 MainPage.py # Page Object Модели для UI
+├── 📄 tests_ui.py # Тестовые сценарии UI
+└── 📄 ui_scenarios.py # Сценарии пользовательских путей
