@@ -17,7 +17,7 @@
 3. Запустите тесты с генерацией отчётности, используя один из следующих режимов:
    - Запуск UI - тестов:
       ```bash
-     pytest -s -v --alluredir=allure-result test_ui.py
+     pytest -s -v --alluredir=allure-result tests_ui.py
      ```
      
    - Запуск UI тестовых сценариев:
@@ -27,7 +27,7 @@
      
    - Запуск API - тестов: 
    ```bash
-   pytest -s -v --alluredir=allure-result test_api
+   pytest -s -v --alluredir=allure-result tests_api
    ```
    и откройте отчёт с помощью команды:
    ```bash
